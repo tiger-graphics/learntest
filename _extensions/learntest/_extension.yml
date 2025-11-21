@@ -1,0 +1,33 @@
+title: LearningTest
+author: Tiger-Graphics
+version: 1.0.1
+quarto-required: ">=1.4.0"
+contributes:
+  revealjs-plugins:
+    - name: RevealLearnTest
+      script:
+        - learntest.js
+      stylesheet:
+        - learntest.css
+      config:
+        learntest:
+          checkKey: "c"
+          resetKey: "q"
+          shuffleKey: "t"
+          allowNumberKeys: true
+          disableDeckShuffle: false
+          disableOnCheck: false
+          enableHelp: false
+          enableSolution: false
+          shuffleOptions: false
+          exitTarget: ""
+          defaultScore: "2"
+          defaultCorrect: ""
+          defaultIncorrect: ""
+          includeScore: false
+          disableReset: false
+          quizDebug: true
+          quizLanguage: "en"
+
+
+          
