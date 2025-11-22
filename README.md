@@ -284,4 +284,4 @@ The emoticons are selected based on the percentage of correct answers.
  
 ## Example
 
-The output of `example.qmd` is [here](https://tigergraphics.quarto.pub/quarto-learntest).
+The example is [here](https://tigergraphics.quarto.pub/quarto-learntest).
