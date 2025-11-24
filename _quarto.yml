@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: public_html
+   
+website:
+  title: Tiger Graphics Learning Test
+  
+  navbar:
+     search: true
+     title: false
+     
+format:
+  html:
+    theme:
+      light: cosmo
+
+
