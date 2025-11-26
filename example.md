@@ -18,7 +18,7 @@ format:
       includeScore: true
       defaultCorrect: "Correct :-)"
       defaultScore: "4"
-      exitTarget: "index.html"
+      exitTarget: "example.html"
       quizLanguage: "en"
       quizDebug: false
 
